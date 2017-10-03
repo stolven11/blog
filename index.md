@@ -1,6 +1,10 @@
-## Blog Home
+## What is a blog?
 
-Homepage for blogs I post.
+blog: a website on which someone writes about personal opinions, activities, and experiences.<br />
+
+## Blogs
+
+Here you can find my blogs!<br />
 
 ### Markdown
 
